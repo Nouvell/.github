@@ -1,3 +1,3 @@
 # .github
 
-Special repository for displaying organization information on [github](https://githubt.com/nouvell)
+Special repository for displaying organization information on [Github](https://github.com/Nouvell)
