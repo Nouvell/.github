@@ -1,3 +1,3 @@
 # .github
 
-`Some test things we will like to shoW`
+Special repository for displaying organization information on [github](https://githubt.com/nouvell)
